@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def first():
-    return "Hello Everyone! It's me buddie dfkdshfjsdkjfhskdjfhkjsdfh hdbfhdsfbhdsbfjbsdfs"
+    return "Hello Everyone! It's me buddie "
 
 
 if __name__ == "__main__":
